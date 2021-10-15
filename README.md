@@ -1,6 +1,6 @@
 ### Hi there I'm Thomas 👋
 
-### Description of me 🧑🏻‍🦱
+### What am i studying 🧑🏻‍🦱
 
 Student at the University of Paris Descartes.
 I am in my second year of DUT Informatique.
