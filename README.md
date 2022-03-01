@@ -4,7 +4,8 @@
 
 Student at the University of Paris Descartes.
 I am in my second year of DUT Informatique.
-I am looking for an apprenticeship for September 2022.
+
+I am looking for an **apprenticeship** for September 2022.
 
 ### Languages and Tools:
 
